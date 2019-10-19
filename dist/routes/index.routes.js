@@ -9,7 +9,7 @@ var _express = require("express");
 
 var router = (0, _express.Router)();
 router.get('/', function (req, res) {
-  res.send('Welcome to my API');
+  res.send('Welcome JavaScript Community');
 });
 var _default = router;
 exports["default"] = _default;
