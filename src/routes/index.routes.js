@@ -2,7 +2,7 @@ import { Router } from 'express';
 const router = Router();
 
 router.get('/', (req, res) => {
-    res.send('Welcome to my API');
+    res.send('Welcome JavaScript Community');
 })
 
 export default router;
